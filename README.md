@@ -38,6 +38,5 @@ All calculations occur on the server side; the front-end client only collects us
 
 1. **Clone this repository**:
    ```sh
-   git clone <this-repo-url>
-   cd health-insurance-api
+   git clone https://github.com/Ahmadokn/health-insurance-api.git
    ```
